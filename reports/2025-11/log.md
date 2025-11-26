@@ -1,3 +1,31 @@
+### Infinite loop issue in the state machine of the curl project
+- Disclosure: Full
+- Link: https://hackerone.com/reports/3442060
+### Details
+- Severity: None
+- Weakness: None
+- Bounty: None
+- Reported by: kak1
+- Reported to: curl
+### Timeline
+- Reported on: 2025-11-26
+- Disclosed on: 2025-11-26
+----
+
+### runs javascript on powershell when it shouldnt
+- Disclosure: Full
+- Link: https://hackerone.com/reports/3442024
+### Details
+- Severity: None
+- Weakness: Improper Neutralization of Script-Related HTML Tags in a Web Page (Basic XSS)
+- Bounty: None
+- Reported by: lim_e
+- Reported to: curl
+### Timeline
+- Reported on: 2025-11-26
+- Disclosed on: 2025-11-26
+----
+
 ### High resource consumption by insufficient sanitization of forum threads pagination
 - Disclosure: Partial
 - Link: https://hackerone.com/reports/1916400
