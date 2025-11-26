@@ -1,0 +1,13 @@
+# 01 - Read latest report(s) on hacktivity
+https://hackerone.com/hacktivity/overview?queryString=disclosed%3Atrue&sortField=latest_disclosable_activity_at&sortDirection=DESC&pageIndex=0
+
+# 02 - Make mental note if partial or full disclosure
+
+# 03 - Copy the report ID to clipboard
+
+# 04 - Input report ID and type of disclosure into following command
+python3 ./scrape.py <id> <disclosure> | cat - reports.md > reports.tmp && mv reports.tmp reports.md
+
+# 05 - print the reports.md file to verify contents
+
+# 06 - push changes to repo
