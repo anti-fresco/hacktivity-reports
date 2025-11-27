@@ -1,3 +1,17 @@
+### Username Validation Bypass
+- Disclosure: Full
+- Link: https://hackerone.com/reports/3434156
+### Details
+- Severity: Medium
+- Weakness: Improper Authentication - Generic
+- Bounty: None
+- Reported by: kassem_s94
+- Reported to: Revive Adserver
+### Timeline
+- Reported on: 2025-11-19
+- Disclosed on: 2025-11-26
+----
+
 ### Infinite loop issue in the state machine of the curl project
 - Disclosure: Full
 - Link: https://hackerone.com/reports/3442060
